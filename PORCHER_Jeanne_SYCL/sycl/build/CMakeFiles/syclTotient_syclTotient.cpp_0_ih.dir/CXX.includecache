@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jep4000/cw2/f20dp-totient-range-cw2/sycl/syclTotient.cpp
+chrono
+-
+CL/sycl.hpp
+-
+array
+-
+iostream
+-
+

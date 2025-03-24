@@ -1,0 +1,1 @@
+/cm/shared/apps/gcc/9.3.0/bin/g++   -fopenmp -pg   CMakeFiles/syclTotient.dir/syclTotient.cpp.o  -o syclTotient  -Wl,-rpath,/home/shared/compute-cpp/ComputeCpp-CE-2.11.0-x86_64-linux-gnu/lib /home/shared/compute-cpp/ComputeCpp-CE-2.11.0-x86_64-linux-gnu/lib/libComputeCpp.so /usr/lib64/libOpenCL.so 

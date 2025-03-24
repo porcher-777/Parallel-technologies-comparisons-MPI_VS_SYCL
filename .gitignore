@@ -1,35 +1,49 @@
-*.pdf
+# Build directories
+/build/
+/bin/
+/out/
+/lib/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
 
-# Haskell stuff
-.stack-work/
-*.png
-*~
-*.html
-*#
-#*
-*.lock
-*_flymake.hs
-*.eventlog
-*.hp
-*.prof
-*.csv
-*.dyn_hi
-*.dyn_o
-cache/
-package.conf.inplace/
-setup-conf
-dist-newstyle
-*.tar.gz
+# VSCode settings
+/.vscode/
+/.vscode/*
 
-#OS X specific files
-.DS_store
+# Temporary and backup files
+*.swp
+*.swo
+*.bak
+*.tmp
 
-# any binaries
-sum_totient
-sumtotient
-sumTotient
-haskell-totient
+# Object and binary files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.out
 
-# any possible generated build directories
-build
-bin
+# Logs and debugging files
+*.log
+*.dmp
+*.stackdump
+
+# SYCL and Compute-Specific Files
+*.device
+*.fpga
+*.aocx
+*.pdb
+*.ipch
+
+# Dependency-related files
+*.mod
+*.tlog
+*.cache
+*.cmake
+*.ninja
+CMakeUserPresets.json
+

@@ -1,0 +1,4 @@
+/home/jep4000/cw2/f20dp-totient-range-cw2/sycl/build/CMakeFiles/rebuild_cache.dir
+/home/jep4000/cw2/f20dp-totient-range-cw2/sycl/build/CMakeFiles/edit_cache.dir
+/home/jep4000/cw2/f20dp-totient-range-cw2/sycl/build/CMakeFiles/syclTotient_syclTotient.cpp_0_ih.dir
+/home/jep4000/cw2/f20dp-totient-range-cw2/sycl/build/CMakeFiles/syclTotient.dir
